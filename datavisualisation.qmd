@@ -1,0 +1,5 @@
+---
+title: "Data Visualisation"
+---
+I previously had to find the causes of Diabetes in an average human and I had plotted a correlation chart to determine factors of Diabetes using plt in jupyter notebook
+![](diabetesvisual.png){width=80%}

@@ -1,0 +1,11 @@
+---
+title: "Loh Kai Chuin's Reflection"
+---
+
+The user of GenAI is especially helpful but can easily be abused by many.
+
+Personally I prefer to use ChatGPT amongst the other available options due to its diverse training data, allowing it to provide more accurate information.
+
+GenAI had helped me troubleshoot this assessment with several issues such as troubleshooting an error I faced when creating Pages in Github.
+
+While ChatGPT is beneficial in resolving issues, a problem faced is the ethics of GenAI and us humans need to use it as a learning and aid tool instead of using it to do our work completely.

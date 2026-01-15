@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Loh Kai Chuin’s Page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My Name is Kai Chuin and I am currently a second year Fintech Student studying at the Singapore Institute of Technology"
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Loh Kai Chuin’s Reflection",
+    "section": "",
+    "text": "The user of GenAI is especially helpful but can easily be abused by many.\nPersonally I prefer to use ChatGPT amongst the other available options due to its diverse training data, allowing it to provide more accurate information.\nGenAI had helped me troubleshoot this assessment with several issues such as troubleshooting an error I faced when creating Pages in Github.\nWhile ChatGPT is beneficial in resolving issues, a problem faced is the ethics of GenAI and us humans need to use it as a learning and aid tool instead of using it to do our work completely."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Previous Projects",
+    "section": "",
+    "text": "# Image without caption\nI previously had to do up a design project using Photoshop. I had designed a infographics relating to Minecraft"
+  },
+  {
+    "objectID": "datavisualisation.html",
+    "href": "datavisualisation.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "I previously had to find the causes of Diabetes in an average human and I had plotted a correlation chart to determine factors of Diabetes using plt in jupyter notebook"
   }
 ]
