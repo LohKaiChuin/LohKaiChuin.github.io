@@ -1,5 +1,12 @@
 ---
 title: "Data Visualisation"
 ---
-I previously had to find the causes of Diabetes in an average human and I had plotted a correlation chart to determine factors of Diabetes using plt in jupyter notebook
+## Diabetes Data Visualisation
+
+In my previous course of work in Ngee Ann Polytechnic, I had to use Jupyter Notebook to pick up on Machine Learning. 
+
+One of the interesting visualisations I encountered was a correlation table, which looks like a heatmap in a sense.
+
+The correlation table shows the different factors which causes and affects the risk of diabetes. Although it looks simple, it was the first data visualisation I had created using Matplotlib's pyplot module.
+
 ![](diabetesvisual.png){width=80%}

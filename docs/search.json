@@ -9,29 +9,134 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Loh Kai Chuin’s Page",
+    "title": "Loh Kai Chuin",
     "section": "",
-    "text": "My Name is Kai Chuin and I am currently a second year Fintech Student studying at the Singapore Institute of Technology"
+    "text": "2nd Year Applied Computing student interested in becoming a data scientist"
   },
   {
     "objectID": "Reflection.html",
     "href": "Reflection.html",
-    "title": "Loh Kai Chuin’s Reflection",
+    "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "The user of GenAI is especially helpful but can easily be abused by many.\nPersonally I prefer to use ChatGPT amongst the other available options due to its diverse training data, allowing it to provide more accurate information.\nGenAI had helped me troubleshoot this assessment with several issues such as troubleshooting an error I faced when creating Pages in Github.\nWhile ChatGPT is beneficial in resolving issues, a problem faced is the ethics of GenAI and us humans need to use it as a learning and aid tool instead of using it to do our work completely."
+    "text": "This reflection outlines my experience using GenAI"
   },
   {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Previous Projects",
     "section": "",
-    "text": "I previously had to do up a design project using Photoshop. I had designed a infographics relating to Minecraft"
+    "text": "During my time in Ngee Ann Polytechnic, I had to redesign elements from an application in the appstore. I had chosen Minecraft as my main application.\nI had to create an infographic about the application and it was all done from scratch using Adobe Photoshop. All the individual assets was traced carefully using Adobe Illustrator.\nOf the many design related projects that I had done up, I felt that this was especially well made for someone with close to no experience in creating an infographic, which provides me with motivation to continue improving on my design sense."
   },
   {
     "objectID": "datavisualisation.html",
     "href": "datavisualisation.html",
     "title": "Data Visualisation",
     "section": "",
-    "text": "I previously had to find the causes of Diabetes in an average human and I had plotted a correlation chart to determine factors of Diabetes using plt in jupyter notebook"
+    "text": "In my previous course of work in Ngee Ann Polytechnic, I had to use Jupyter Notebook to pick up on Machine Learning.\nOne of the interesting visualisations I encountered was a correlation table, which looks like a heatmap in a sense.\nThe correlation table shows the different factors which causes and affects the risk of diabetes. Although it looks simple, it was the first data visualisation I had created using Matplotlib’s pyplot module."
+  },
+  {
+    "objectID": "Reflection.html#section",
+    "href": "Reflection.html#section",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "GenAI Tool used and reason for selection\nI prefer to use ChatGPT rather than popular alternatives such as Claude, Deepseek and Gemini.\nChatGPT is especially accessible, versatile and capable of providing insightful explanations and suggestions across tasks. ChatGPT has consistently been taking in training data, making the outputs more diverse and is able to provide accurate information most of the time."
+  },
+  {
+    "objectID": "Reflection.html#genai-tool-used-and-reason-for-selection",
+    "href": "Reflection.html#genai-tool-used-and-reason-for-selection",
+    "title": "Reflection on the use of GenAI",
+    "section": "GenAI Tool used and reason for selection",
+    "text": "GenAI Tool used and reason for selection\nI prefer to use ChatGPT rather than popular alternatives such as Claude, Deepseek and Gemini.\nChatGPT is especially accessible, versatile and capable of providing insightful explanations and suggestions across tasks. ChatGPT has consistently been taking in training data, making the outputs more diverse and is able to provide accurate information most of the time."
+  },
+  {
+    "objectID": "Reflection.html#section-1",
+    "href": "Reflection.html#section-1",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "GenAI had helped me troubleshoot this assessment with several issues such as troubleshooting an error I faced when creating Pages in Github.\nWhile ChatGPT is beneficial in resolving issues, a problem faced is the ethics of GenAI and us humans need to use it as a learning and aid tool instead of using it to do our work completely."
+  },
+  {
+    "objectID": "Reflection.html#overview",
+    "href": "Reflection.html#overview",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "This reflection outlines my experience using GenAI"
+  },
+  {
+    "objectID": "Reflection.html#usage-of-gen-ai-in-this-assignment",
+    "href": "Reflection.html#usage-of-gen-ai-in-this-assignment",
+    "title": "Reflection on the use of GenAI",
+    "section": "Usage of Gen AI in this assignment",
+    "text": "Usage of Gen AI in this assignment\nGenAI had helped me troubleshoot this assessment when faced with several issues such as troubleshooting an error I faced when creating Pages in Github, or a background consistency issue in the css.\nIt can also be an assistant for me if I want to phrase myself better. I personally have troubles conveying what I want to portray. GenAI has helped me rewrite or refine content to ensure better clarity and coherence."
+  },
+  {
+    "objectID": "Reflection.html#benefits-of-using-genai",
+    "href": "Reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits of Using GenAI",
+    "text": "Benefits of Using GenAI\nGenAI provides several benefits for use.\n\nEfficiency: It reduces the time needed to research solutions and test outcomes. It can also help with basic tasks when doing up on a project, making the simple steps done instantaneously.\nClarity: Explanations help me to better understand doubts faced and provide me with suggestions for improvements\nCreativity Support: When dealing with writer’s block, GenAI has helped me find alternative approaches I can take to move ahead during downtimes\nLearning Aid: Rather than giving only final answers, GenAI has helped reinforced learning by providing explanations and simple step by step guides to my problems."
+  },
+  {
+    "objectID": "Reflection.html#challenges-and-limitations",
+    "href": "Reflection.html#challenges-and-limitations",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges and Limitations",
+    "text": "Challenges and Limitations\nDespite the many benefits, challenges arise when using GenAI include overreliance on the tool. For me personally, GenAI can be seen as a convenience tool rather than a learning aid and it’s easy to just give it all my problems and expect it to solve my problems for me, which embodies the wrong mindset.\nIt is also easy to abuse genAI into providing dangerous or malicious content, making it an ethics issue amongst many."
+  },
+  {
+    "objectID": "Reflection.html#future-use-of-genai-in-study-and-work",
+    "href": "Reflection.html#future-use-of-genai-in-study-and-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "Future use of GenAI in Study and Work",
+    "text": "Future use of GenAI in Study and Work\nI believe that GenAI will be highly valuable in future applications of study and in professional work, being able to assist with\n\nDrafting and Structuring written content\nDebugging and Improving Code\nLearning new skillsets efficiently\nBrainstorming Ideas\n\nWhen used ethically and responsibly, GenAI can ultimately enhance productivity and deepen understanding"
+  },
+  {
+    "objectID": "Reflection.html#final-thoughts",
+    "href": "Reflection.html#final-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nOverall, my experience using GenAI for this assessment was positive. The tool acted as a guide and collaborator, helping me overcome challenges while still requiring my own judgment and effort. This experience has encouraged me to continue using GenAI thoughtfully as part of my learning process."
+  },
+  {
+    "objectID": "project.html#minecraft-infographics",
+    "href": "project.html#minecraft-infographics",
+    "title": "Previous Projects",
+    "section": "",
+    "text": "During my time in Ngee Ann Polytechnic, I had to redesign elements from an application in the appstore. I had chosen Minecraft as my main application.\nI had to create an infographic about the application and it was all done from scratch using Adobe Photoshop. All the individual assets was traced carefully using Adobe Illustrator.\nOf the many design related projects that I had done up, I felt that this was especially well made for someone with close to no experience in creating an infographic, which provides me with motivation to continue improving on my design sense."
+  },
+  {
+    "objectID": "datavisualisation.html#diabetes-data-visualisation",
+    "href": "datavisualisation.html#diabetes-data-visualisation",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "In my previous course of work in Ngee Ann Polytechnic, I had to use Jupyter Notebook to pick up on Machine Learning.\nOne of the interesting visualisations I encountered was a correlation table, which looks like a heatmap in a sense.\nThe correlation table shows the different factors which causes and affects the risk of diabetes. Although it looks simple, it was the first data visualisation I had created using Matplotlib’s pyplot module."
+  },
+  {
+    "objectID": "index.html#biology",
+    "href": "index.html#biology",
+    "title": "Loh Kai Chuin",
+    "section": "Biology",
+    "text": "Biology\nPreviously from Institute of Technical Education pursuing Information Technology in 2019 and Ngee Ann Polytechnic pursuing Data Science in 2021, I have continued my education pursuit in Applied Computing, with a specialisation in Fintech in the Singapore Institute of Technology.\nI strive to gain enough experience in the field to pursue to greater heights in the technology field as a data scientist and engineer.\nThe idea of working with numbers and data to discover interesting analysis and insights keeps me motivated to work in this field."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Loh Kai Chuin",
+    "section": "Interests",
+    "text": "Interests\n\nPython\nData Science and Machine Learning\nAudio and Sound Systems"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Loh Kai Chuin",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nLearning Languages\n\nBeing a bilingual, learning more languages is especially fun, being able to surprise others by speaking in their native tongue. One language that I am currently still trying to master is Japanese, with me picking up French and Malay with different group of friends.\n\nTravelling\n\nWith the passion of learning languages, travelling is a given, with my top travel destination to Japan to immerse myself in the language so that I can learn the language faster and keep myself updated to their slangs.\n\nInstrument Playing\n\nHaving learned the trumpet since Secondary School, I currently own and practice on my trumpet at home as a hobby. I am also interested in playing the percussion and occassionally drumming to beats on pots and pans at home."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Loh Kai Chuin",
+    "section": "Contact",
+    "text": "Contact\nIf you are interested in knowing more about me, do consider to Email Me"
   }
 ]

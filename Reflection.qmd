@@ -1,11 +1,51 @@
 ---
-title: "Loh Kai Chuin's Reflection"
+title: "Reflection on the use of GenAI"
 ---
+## Overview
+This reflection outlines my experience using GenAI
 
-The user of GenAI is especially helpful but can easily be abused by many.
 
-Personally I prefer to use ChatGPT amongst the other available options due to its diverse training data, allowing it to provide more accurate information.
+## GenAI Tool used and reason for selection
 
-GenAI had helped me troubleshoot this assessment with several issues such as troubleshooting an error I faced when creating Pages in Github.
+I prefer to use ChatGPT rather than popular alternatives such as Claude, Deepseek and Gemini.
 
-While ChatGPT is beneficial in resolving issues, a problem faced is the ethics of GenAI and us humans need to use it as a learning and aid tool instead of using it to do our work completely.
+ChatGPT is especially **accessible, versatile** and capable of providing **insightful explanations** and suggestions across tasks. ChatGPT has consistently been taking in training data, making the outputs **more diverse** and is able to provide **accurate** information most of the time.
+
+## Usage of Gen AI in this assignment
+
+GenAI had helped me **troubleshoot** this assessment when faced with several issues such as troubleshooting an error I faced when creating Pages in Github, or a background consistency issue in the css.
+
+It can also be an **assistant** for me if I want to phrase myself better. I personally have troubles conveying what I want to portray. GenAI has helped me rewrite or **refine** content to ensure better clarity and coherence.
+
+## Benefits of Using GenAI
+
+GenAI provides several benefits for use.
+
+1. **Efficiency**: It reduces the time needed to research solutions and test outcomes. It can also help with basic tasks when doing up on a project, making the simple steps done instantaneously.
+
+2. **Clarity**: Explanations help me to better understand doubts faced and provide me with suggestions for improvements
+
+3. **Creativity Support**: When dealing with writer's block, GenAI has helped me find alternative approaches I can take to move ahead during downtimes
+
+4. **Learning Aid**: Rather than giving only final answers, GenAI has helped reinforced learning by providing explanations and simple step by step guides to my problems.
+
+## Challenges and Limitations
+
+Despite the many benefits, challenges arise when using GenAI include overreliance on the tool. For me personally, GenAI can be seen as a convenience tool rather than a learning aid and it's easy to just give it all my problems and expect it to solve my problems for me, which embodies the wrong mindset.
+
+It is also easy to abuse genAI into providing dangerous or malicious content, making it an ethics issue amongst many.
+
+## Future use of GenAI in Study and Work
+
+I believe that GenAI will be highly valuable in future applications of study and in professional work, being able to assist with
+
+1. Drafting and Structuring written content
+2. Debugging and Improving Code
+3. Learning new skillsets efficiently
+4. Brainstorming Ideas
+
+When used ethically and responsibly, GenAI can ultimately enhance productivity and deepen understanding
+
+## Final Thoughts
+
+Overall, my experience using GenAI for this assessment was positive. The tool acted as a guide and collaborator, helping me overcome challenges while still requiring my own judgment and effort. This experience has encouraged me to continue using GenAI thoughtfully as part of my learning process.

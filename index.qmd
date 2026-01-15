@@ -1,5 +1,37 @@
 ---
-title: "Loh Kai Chuin's Page"
+title: "Loh Kai Chuin"
 ---
+![](kaichuin.jpg){width=80%}
 
-My Name is Kai Chuin and I am currently a second year Fintech Student studying at the Singapore Institute of Technology
+2nd Year Applied Computing student interested in becoming a data scientist
+
+## Biology
+
+Previously from Institute of Technical Education pursuing Information Technology in 2019 and Ngee Ann Polytechnic pursuing Data Science in 2021, I have continued my education pursuit in Applied Computing, with a specialisation in Fintech in the Singapore Institute of Technology.
+
+I strive to gain enough experience in the field to pursue to greater heights in the technology field as a data scientist and engineer.
+
+The idea of working with numbers and data to discover interesting analysis and insights keeps me motivated to work in this field.
+
+## Interests
+1. Python
+2. Data Science and Machine Learning
+3. Audio and Sound Systems
+
+## Hobbies
+
+1. Learning Languages
+
+Being a bilingual, learning more languages is especially fun, being able to surprise others by speaking in their native tongue. One language that I am currently still trying to master is Japanese, with me picking up French and Malay with different group of friends.
+
+2. Travelling
+
+With the passion of learning languages, travelling is a given, with my top travel destination to Japan to immerse myself in the language so that I can learn the language faster and keep myself updated to their slangs. 
+
+3. Instrument Playing
+
+Having learned the trumpet since Secondary School, I currently own and practice on my trumpet at home as a hobby. I am also interested in playing the percussion and occassionally drumming to beats on pots and pans at home.
+
+## Contact
+
+If you are interested in knowing more about me, do consider to [Email Me](mailto:lohkaichuin@gmail.com)

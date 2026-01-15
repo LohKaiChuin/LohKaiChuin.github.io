@@ -1,7 +1,13 @@
 ---
 title: "Previous Projects"
 ---
+## Minecraft Infographics
+
+During my time in Ngee Ann Polytechnic, I had to redesign elements from an application in the appstore. I had chosen Minecraft as my main application.
+
+I had to create an infographic about the application and it was all done from scratch using Adobe Photoshop. All the individual assets was traced carefully using Adobe Illustrator.
+
+Of the many design related projects that I had done up, I felt that this was especially well made for someone with close to no experience in creating an infographic, which provides me with motivation to continue improving on my design sense.
+
 
 ![](infographics.png){width=80%}
-
-I previously had to do up a design project using Photoshop. I had designed a infographics relating to Minecraft

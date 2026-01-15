@@ -1,18 +1,215 @@
-/* css styles */
-body {
-  font-family: Arial, sans-serif;
-  font-size: 16px;
+/* =================================
+   Design Tokens
+================================= */
+:root {
+  --bg: #f6f4ee;
+  --text: #1f1f1f;
+  --muted: #6a6a6a;
+  --accent: #3b5bdb;
+  --border: #e0ded8;
+
+  --font-body: Georgia, "Times New Roman", serif;
+  --font-heading: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+
+  --content-width: 680px;
 }
 
-p {
+/* =================================
+   Hard Reset (Prevents white chunks)
+================================= */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  background: transparent;
+}
+
+html,
+body {
   margin: 0;
   padding: 0;
-  line-height: 1.2;
+  background: var(--bg);
+  color: var(--text);
 }
 
-h1,h2 {
-  font-size: 16pt;
+/* =================================
+   Body
+================================= */
+body {
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.75;
+  padding: 3.5rem 1.5rem;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
 }
-h3,h4 {
-  font-size: 14pt;
+
+/* =================================
+   Navbar (Text Only)
+================================= */
+nav {
+  max-width: var(--content-width);
+  margin: 0 auto 4rem auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+}
+
+nav .logo {
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.6rem;
+  padding: 0;
+  margin: 0;
+}
+
+nav a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: var(--text);
+}
+
+/* =================================
+   Main Layout
+================================= */
+main {
+  max-width: var(--content-width);
+  margin: 0 auto;
+}
+
+/* =================================
+   Headings
+================================= */
+h1,
+h2,
+h3 {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.55rem;
+  margin: 3rem 0 1rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin-top: 2rem;
+}
+
+/* =================================
+   Text Elements
+================================= */
+p {
+  margin: 1.2rem 0;
+}
+
+small {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* =================================
+   Links
+================================= */
+a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+}
+
+a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* =================================
+   Lists
+================================= */
+ul,
+ol {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin: 0.6rem 0;
+}
+
+/* =================================
+   Blockquotes
+================================= */
+blockquote {
+  margin: 2.5rem 0;
+  padding-left: 1.5rem;
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* =================================
+   Horizontal Rule
+================================= */
+hr {
+  border: none;
+  height: 1px;
+  background: var(--border);
+  margin: 3rem 0;
+}
+
+/* =================================
+   Code (Inline Only)
+================================= */
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.9rem;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+}
+
+/* =================================
+   Footer
+================================= */
+footer {
+  max-width: var(--content-width);
+  margin: 5rem auto 0;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* =================================
+   Responsive
+================================= */
+@media (max-width: 600px) {
+  body {
+    padding: 2.5rem 1.2rem;
+  }
+
+  nav {
+    margin-bottom: 3rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
 }
